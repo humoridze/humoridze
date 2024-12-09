@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there! I'm a passionate developer specializing in creating bots for various platforms like VK, Telegram, and Discord. 🤖 My main tech stack includes Python and JavaScript, allowing me to develop functional and efficient solutions for automating user interactions with services.<br>Recently, I've started diving into PHP, which has broadened my horizons in web application development and scripting. 🌐 I strive to create user-friendly and intuitive interfaces while optimizing data scraping processes to extract valuable information from various sources. 📊<br>I am fluent in Russian and have an intermediate level of English, which helps me find resources and connect with the international developer community. 🌍<br>If you have interesting project ideas or want to chat about development, I’d love to discuss! 💬
+bip bop
 
 
 # 💻 Tech Stack:
