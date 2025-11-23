@@ -1,6 +1,4 @@
-# Hi, I'm Hum0ridze 👋
-
-**Backend Developer | Automation Enthusiast | Telegram Bot Architect**
+# Hi, I'm humoridze 👋
 
 I’m a backend developer from Russia with around **4 years of experience**, focused on building business automation tools — especially through **Telegram bots**, APIs, and integration-heavy solutions. I care deeply about **privacy, speed, and reliability** in everything I build.
 
