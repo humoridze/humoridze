@@ -1,8 +1,50 @@
+# Hi, I'm Hum0ridze 👋
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+**Backend Developer | Automation Enthusiast | Telegram Bot Architect**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=humoridze&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I’m a backend developer from Russia with around **4 years of experience**, focused on building business automation tools — especially through **Telegram bots**, APIs, and integration-heavy solutions. I care deeply about **privacy, speed, and reliability** in everything I build.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=humoridze&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🛠️ Tech Stack
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic\&logo=lua\&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic\&logo=java\&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+
+---
+
+## 🚀 What I Do
+
+* Automate business processes using Telegram bots
+* Build custom backend systems and APIs
+* Develop integration-based solutions that make routine tasks disappear
+* Create fast, secure, and maintainable tools for real business needs
+
+---
+
+## 📌 Experience
+
+* **Telegram Bot Development:** Primary focus for the last several years — automation, business tools, verification systems, workflow solutions.
+* **Web Projects:** Developed a CS:GO case-opening website and several smaller full‑stack projects.
+
+---
+
+## 🌐 More About Me
+
+Check out my personal page: **[https://humoridze.github.io](https://humoridze.github.io)**
+
+---
+
+## 📫 Contact
+
+Feel free to reach out if you'd like to collaborate or automate something.
+
+---
+
+Thanks for stopping by! 😊
