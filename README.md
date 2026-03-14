@@ -35,7 +35,7 @@ I’m a backend developer from Russia with around **4 years of experience**, foc
 
 ## 🌐 More About Me
 
-Check out my personal page: **[https://humoridze.github.io](https://humoridze.github.io)**
+Check out my personal page: **[https://humoridze.github.io](https://codexdev.ru)**
 
 ---
 
