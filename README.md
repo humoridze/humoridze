@@ -1,5 +1,7 @@
+<div align="center">
+
 # Hi, I'm Ivan (humoridze) 👋
- 
+
 **Backend developer** specializing in Python, Java, PHP, and Lua. I build Telegram bots, web services, automation tools, and desktop applications using Electron. I work with PostgreSQL and REST APIs. My experience includes implementing payment integrations, service bots, and internal business tools.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,3 +21,5 @@
 [![Site](https://img.shields.io/badge/codexdev.ru-121212?style=flat-square&logoColor=white)](https://codexdev.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/legendagachimuchi)
 [![Email](https://img.shields.io/badge/htvoeylife@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:htvoeylife@gmail.com)
+
+</div>
