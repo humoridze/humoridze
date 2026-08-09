@@ -30,11 +30,11 @@ PHP, Java, PostgreSQL, Docker · 4 года опыта · Воронеж
 
 **Иван Воробьёв**
 
-Занимаюсь backend-разработкой: API, базы данных, деплой. Основной стек — PHP/Laravel и Java. Также работаю с PostgreSQL, Docker, Linux и JavaScript. Параллельно прохожу обучение по направлению «Информационные системы» в ВИВТ (2025–2028).
+Занимаюсь backend-разработкой: REST API, базы данных, деплой. Основной стек — PHP/Laravel и Java. Также работаю с PostgreSQL, Docker, Linux и JavaScript. Параллельно прохожу обучение по направлению «Информационные системы» в ВИВТ (2025–2028).
 
 ## Стек
 
-`PHP / Laravel` · `Java` · `PostgreSQL` · `Docker` · `Linux` · `JavaScript` · `Python`
+`PHP / Laravel` · `Java` · `PostgreSQL` · `Docker` · `Linux` · `JavaScript` · `Python` · `REST API`
 
 ---
 
