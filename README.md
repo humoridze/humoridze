@@ -34,7 +34,7 @@ PHP, Java, PostgreSQL, Docker · 4 года опыта · Воронеж
 
 ## Стек
 
-`PHP / Laravel` · `Java` · `PostgreSQL` · `Docker` · `Linux` · `JavaScript` · `Python` · `REST API` · `Redis` · `Nginx`
+`PHP / Laravel` · `Java` · `PostgreSQL` · `Docker` · `Linux` · `JavaScript` · `Python` · `REST API` · `Redis` · `Git`
 
 ---
 
